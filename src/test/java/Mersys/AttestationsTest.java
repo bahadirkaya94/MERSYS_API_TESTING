@@ -61,7 +61,7 @@ public class AttestationsTest {
                         .cookies(cookies)
                         .contentType(ContentType.JSON)
                         .body(attestations)
-
+                //selam
 
                         .when()
                         .post("school-service/api/attestation")
