@@ -33,7 +33,7 @@ public class SubjectCategories {
     public void setActive(boolean active) {
         this.active = active;
     }
-
+//selam
     public String getId() {
         return id;
     }
