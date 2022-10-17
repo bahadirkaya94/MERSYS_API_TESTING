@@ -34,6 +34,7 @@ public class SubjectCategories {
         this.active = active;
     }
 //selam
+    //aDASA
     public String getId() {
         return id;
     }
